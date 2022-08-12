@@ -1,0 +1,43 @@
+.Loginmodule{
+   width:35%;
+   height:30vh; 
+   border:2px solid blue;
+   display: flex;
+   /* align-items: center; */
+   justify-content: center;
+   flex-direction: column;
+   border-radius: 10px;
+   padding-left: 10px;
+   margin: 40%;
+   padding-top: 20px;
+}
+.Set{
+    display: flex;
+    /* align-items: center ; */
+    /* justify-content: center; */
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+input {
+    width:70%
+}
+#loginbtn{
+    width: 35%;
+    background-color: rgb(84, 132, 188);
+    border: none;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 20px;
+    color:aliceblue;
+    cursor: pointer;
+}
+#Signup{
+    text-decoration:underline;
+    /* border: 1px solid black; */
+    
+}
+#Signup,#loginbtn,h5{
+    margin-left: 30%;
+    text-align: center;
+    width: 35%;
+}

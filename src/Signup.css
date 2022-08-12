@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: black;
+}
+.mainn{
+    height: vh;
+    /* width:100%; */
+    /* border: 1px solid black; */
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; */
+    padding:0px;
+    /* text-align: center; */
+    margin:0;
+}
+#Signup{
+    margin-bottom: 20px;
+}
+div label{
+    margin-top: 10px;
+    color: black;
+}
+.inpuut{
+    width:20rem;
+    padding: 4px;
+    border-radius: 7px;
+    margin-top: 5px;
+}
+.stylee{
+    display: flex;
+    flex-direction:column;  
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* flex-direction:column; */
+}

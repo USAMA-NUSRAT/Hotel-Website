@@ -1,0 +1,86 @@
+*{
+  color: black;
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+  justify-content: center;
+} 
+
+
+.ki{
+  height: 800px;
+  /* background-image: url("./bc.jpg"); */
+  background-size:cover ;
+  
+}
+.op
+{
+  display: inline-block;
+  text-align: center;
+  justify-content: center;
+  
+}
+.ty
+{
+  color: blue;
+}
+button{
+color: blue;
+
+}
+.fform
+{
+ 
+  text-align: center;
+  justify-content: center;
+  background-color: aliceblue;
+  color: rgb(119, 0, 255);
+}
+.pol
+{
+  display: inline-block;
+}
+.right
+{
+  float: right;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+#bbtnbook{
+  padding: 7px;
+  border-radius: 8px;
+  background-color: green;
+  border: none;
+  color: white;
+  margin: 15px;
+  
+}
+h1{
+  color: black;
+}
+.App td p{
+  color: black;
+}
+.App td input{
+  color: black;
+  width: 80%;
+}
+
+
